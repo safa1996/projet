@@ -237,3 +237,4 @@ To configure CI for your project, run the ci-cd sub-generator (`jhipster ci-cd`)
 [definitelytyped]: https://definitelytyped.org/
 "# projet" 
 "# projet" 
+"# projet" 
